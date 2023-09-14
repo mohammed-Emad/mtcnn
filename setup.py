@@ -28,7 +28,7 @@ from setuptools import setup, setuptools
 
 
 __author__ = "Iván de Paz Centeno"
-__version__= "0.1.1"
+__version__= "0.1.2"
 
 
 def readme():
